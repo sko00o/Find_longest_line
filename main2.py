@@ -1,9 +1,9 @@
+# Greedy algorithm ?
+# WTF!
 
 import math
 import random
 import common as co
-
-# Greedy algorithm ?
 
 
 def can(mp, c, sb):
